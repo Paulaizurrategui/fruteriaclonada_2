@@ -1,2 +1,2 @@
 # fruteriaclonada_2
-ejercicio uno fruteria
+ejercicio uno fruteria 1 
